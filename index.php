@@ -551,7 +551,7 @@ $result = $conn->query($sql);
 
                 <div class="col-xl-3 col-lg-6 col-md-6" data-wow-delay="0.2s">
                     <div class="member" data-aos="zoom-in" data-aos-delay="300">
-                        <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/team/sabiry.jpg" class="img-fluid" alt="">
                         <div class="member-info">
                             <div class="member-info-content">
                                 <h4>Mahboobulrahman Sabiry</h4>
